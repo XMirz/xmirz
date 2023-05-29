@@ -1,21 +1,37 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Hafez Almirza, a freshgraduate of Informatics Engineering. Passionate with Mobile Development
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+
+
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=XMirz&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XMirz&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=XMirz&bg_color=00000000&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XMirz&bg_color=00000000&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=XMirz)
 
+## Top Repository
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XMirz&repo=pustaka)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XMirz&repo=flutter_movie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XMirz/xmirz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
