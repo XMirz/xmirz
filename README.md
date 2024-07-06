@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Hafez Almirza, Software Engineer at [PT. Bank Riau Kepri Syariah](https://brksyariah.co.id)
+I am Hafez Almirza, Software Engineer at [PT. Bank Riau Kepri Syariah](https://www.brksyariah.co.id/brkweb_syariah/)
 
 ## Skills
 
